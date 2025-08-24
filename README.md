@@ -3,6 +3,7 @@ MajesticStay Hotel Booking 🏨
 This is a professional and elegant website for a hotel booking system, built with PHP and MySQL. It's designed to provide a seamless and secure experience for both guests and administrators.
 
 ✨ Features
+
 -User-friendly Interface: A clean and modern design for an effortless booking experience. 🖥️
 
 -Room Availability: Users can easily check room availability for specific dates. 🗓️
