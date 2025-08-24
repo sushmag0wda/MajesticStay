@@ -1,4 +1,5 @@
 MajesticStay Hotel Booking 🏨
+
 This is a professional and elegant website for a hotel booking system, built with PHP and MySQL. It's designed to provide a seamless and secure experience for both guests and administrators.
 
 ✨ Features
@@ -8,6 +9,7 @@ This is a professional and elegant website for a hotel booking system, built wit
 -Contact Form: Guests can send messages and inquiries directly to the hotel staff. 📧
 
 🚀 Installation
+
 1)Clone the repository to your local machine.
   git clone https://github.com/sushmag0wda/MajesticStay.git
 
