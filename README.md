@@ -39,13 +39,13 @@ Gallery Page
 ![Gallery Page](screenshots/gallery.png)
 
 Messages page
-![Send Messages](screenshots/send messages.png)
+![Send Messages](screenshots/send-messages.png)
 
 Admin Pages
 
 Admin Login Page
-![Admin Login](screenshots/admin login.png)
+![Admin Login](screenshots/admin-login.png)
 
 Admin Dashboard
-![Admin Dashboard](screenshots/admin dashboard.png)
+![Admin Dashboard](screenshots/admin-dashboard.png)
 
