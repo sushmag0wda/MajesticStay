@@ -14,32 +14,32 @@ A professional and elegant hotel booking system built with **HTML**,**CSS**,**JS
 ---
 
 
-📸 Screenshots
-User Pages
+#📸 Screenshots
+#User Pages
 
-Home Page
+**Home Page**
 ![MajesticStay Home Page](screenshots/home.png)
 
-Reservation Page
+**Reservation Page**
 ![Reservation Page](screenshots/reservation.png)
 
-Services Page
+**Services Page**
 ![Services Page](screenshots/services.png)
 
-About Page
+**About Page**
 ![About Page](screenshots/about.png)
 
-Gallery Page
+**Gallery Page**
 ![Gallery Page](screenshots/gallery.png)
 
-Messages page
+**Messages page**
 ![Send Messages](screenshots/send-messages.png)
 
-Admin Pages
+#Admin Pages
 
-Admin Login Page
+**Admin Login Page**
 ![Admin Login](screenshots/admin-login.png)
 
-Admin Dashboard
+**Admin Dashboard**
 ![Admin Dashboard](screenshots/admin-dashboard.png)
 
