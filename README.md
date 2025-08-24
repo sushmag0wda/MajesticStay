@@ -1,21 +1,21 @@
-# MajesticStay Hotel Booking 🏨
+# 👑 MajesticStay Hotel Booking 🏨
 
-A professional and elegant hotel booking system built with **HTML**,**CSS**,**JS**,**PHP** and **MySQL**, designed to provide a seamless and secure experience for both guests and administrators.
-
----
-
-## ✨ Features
-
-- **User-friendly Interface:** Clean and modern design for effortless booking. 🖥️  
-- **Room Availability:** Check room availability for specific dates easily. 🗓️  
-- **Booking Management:** Secure system to handle user reservations and data. 🔒  
-- **Contact Form:** Guests can send messages and inquiries directly to the hotel staff. 📧  
+A professional and elegant hotel booking system built with **HTML**, **CSS**, **JS**, **PHP**, and **MySQL**, designed to provide a seamless and secure experience for both guests and administrators.
 
 ---
 
+## ✨ Key Features
 
-##📸 Screenshots
-###User Pages
+- **User-Friendly Interface:** Clean and modern design for effortless booking. 🖥️
+- **Room Availability:** Easily check room availability for specific dates. 🗓️
+- **Booking Management:** A secure system to handle user reservations and data. 🔒
+- **Contact Form:** Guests can send messages and inquiries directly to hotel staff. 📧
+
+---
+
+## 📸 Screenshots
+
+### **User Pages**
 
 **Home Page**
 ![MajesticStay Home Page](screenshots/home.png)
@@ -32,14 +32,13 @@ A professional and elegant hotel booking system built with **HTML**,**CSS**,**JS
 **Gallery Page**
 ![Gallery Page](screenshots/gallery.png)
 
-**Messages page**
+**Messages Page**
 ![Send Messages](screenshots/send-messages.png)
 
-###Admin Pages
+### **Admin Pages**
 
 **Admin Login Page**
 ![Admin Login](screenshots/admin-login.png)
 
 **Admin Dashboard**
 ![Admin Dashboard](screenshots/admin-dashboard.png)
-
