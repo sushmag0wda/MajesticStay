@@ -14,8 +14,8 @@ A professional and elegant hotel booking system built with **HTML**,**CSS**,**JS
 ---
 
 
-#📸 Screenshots
-#User Pages
+##📸 Screenshots
+###User Pages
 
 **Home Page**
 ![MajesticStay Home Page](screenshots/home.png)
@@ -35,7 +35,7 @@ A professional and elegant hotel booking system built with **HTML**,**CSS**,**JS
 **Messages page**
 ![Send Messages](screenshots/send-messages.png)
 
-#Admin Pages
+###Admin Pages
 
 **Admin Login Page**
 ![Admin Login](screenshots/admin-login.png)
