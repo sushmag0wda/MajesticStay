@@ -21,3 +21,30 @@ This is a professional and elegant website for a hotel booking system, built wit
 -Open project/components/connect.php and update the database credentials if necessary.
 
 📸 Screenshots
+User Pages
+
+Home Page
+![MajesticStay Home Page](screenshots/home.png)
+
+Reservation Page
+![Reservation Page](screenshots/reservation.png)
+
+Services Page
+![Services Page](screenshots/services.png)
+
+About Page
+![About Page](screenshots/about.png)
+
+Gallery Page
+![Gallery Page](screenshots/gallery.png)
+
+Admin Pages
+
+Admin Login Page
+![Admin Login](screenshots/admin login.png)
+
+Admin Dashboard
+![Admin Dashboard](screenshots/admin dashboard.png)
+
+Admin Messages
+![Admin Messages](screenshots/send messages.png)
