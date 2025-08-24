@@ -4,8 +4,11 @@ This is a professional and elegant website for a hotel booking system, built wit
 
 ✨ Features
 -User-friendly Interface: A clean and modern design for an effortless booking experience. 🖥️
+
 -Room Availability: Users can easily check room availability for specific dates. 🗓️
+
 -Booking Management: A secure system to handle user reservations and data. 🔒
+
 -Contact Form: Guests can send messages and inquiries directly to the hotel staff. 📧
 
 🚀 Installation
