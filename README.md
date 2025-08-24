@@ -38,6 +38,9 @@ About Page
 Gallery Page
 ![Gallery Page](screenshots/gallery.png)
 
+Messages page
+![Send Messages](screenshots/send messages.png)
+
 Admin Pages
 
 Admin Login Page
@@ -46,5 +49,3 @@ Admin Login Page
 Admin Dashboard
 ![Admin Dashboard](screenshots/admin dashboard.png)
 
-Admin Messages
-![Admin Messages](screenshots/send messages.png)
