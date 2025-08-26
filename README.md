@@ -1,5 +1,3 @@
-![Project Preview](screenshots/home.png)
-
 # 👑 MajesticStay Hotel Booking 🏨
 
 A professional and elegant hotel booking system built with **HTML**, **CSS**, **JS**, **PHP**, and **MySQL**, designed to provide a seamless and secure experience for both guests and administrators.
